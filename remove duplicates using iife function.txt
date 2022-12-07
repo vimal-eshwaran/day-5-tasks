@@ -1,0 +1,7 @@
+var arr=["john","peter","paul","john","mary","peter"];
+      function removeDuplicates(arr) {
+        return [...new Set(arr)];
+    }
+      console.log(removeDuplicates(arr));
+
+

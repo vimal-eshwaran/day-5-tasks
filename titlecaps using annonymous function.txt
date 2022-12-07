@@ -1,0 +1,7 @@
+var str = ['john, petter, mike, smith, david']
+      var uppercase=function(){
+        var string=(str[0].toUpperCase())
+          console.log(string)
+      }
+      uppercase()
+
