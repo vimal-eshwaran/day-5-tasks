@@ -1,8 +1,0 @@
-var rotation=function(arr){
-     var arr=[1,2,3,4,5], d=4;
-   for(var i=d;i<arr.length;i++)
-    arr.unshift(arr.pop());
-    console.log(arr);
-    }
-    (rotation)
-
